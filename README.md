@@ -1,9 +1,9 @@
-# animationpedia.github.io<!DOCTYPE html>
-<html>
-<head>
+# animationpedia.github.io
+
+
   Animation Pedia
 
-</head>
+
 
 <body style="background-color:beige">
 
@@ -62,6 +62,5 @@ I highly recommend to watch this movie and I give it an 8.5 out of 10.</b></p><b
 <font size="5">  <u><b><i>11.The Boss Baby:</i></b></u></font> <br><p style="color:cadetblue"><b>You will see a baby wearing a suit and a brief-case in his hands joins the Templeton family in the movie.Actually he is on an important mission which his elder brother Tim Templeton helps him to accomplish.Together they just
 have a wonderful adventure.This family comedy movie will make you burst into laughter.You will definetly like the partnership of Tim Templeton and his younger brother AKA the boss baby.<br><br>
 I like this movie and I give it a 7.5 out of 10.</b></p><br><br>   
-</body>
-</html>
+
 
